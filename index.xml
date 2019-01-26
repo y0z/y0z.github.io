@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yoshihiko Ozaki</title>
+    <link>https://y0z.github.io/</link>
+    <description>Recent content on Yoshihiko Ozaki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 26 Jan 2019 16:45:23 +0900</lastBuildDate>
+    
+	<atom:link href="https://y0z.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://y0z.github.io/about/</link>
+      <pubDate>Sat, 26 Jan 2019 16:45:23 +0900</pubDate>
+      
+      <guid>https://y0z.github.io/about/</guid>
+      <description>尾崎嘉彦 (Yoshihiko Ozaki) グリー株式会社 エンジニア, yoshihiko.ozaki(at)gree.net 産業技術総合研究所 特定集中研究専門員, ozaki-y(at)aist.go.jp 業績リスト 査読あり学術論文誌 Yoshihiko Ozaki, Masaki Yano, Masaki Onishi, &amp;ldquo;Effective hyperparameter optimization using Nelder-Mead method in deep learning,&amp;rdquo; IPSJ</description>
+    </item>
+    
+  </channel>
+</rss>
