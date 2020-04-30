@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://y0z.github.io/about/</loc>
+    <lastmod>2020-04-30T17:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://y0z.github.io/</loc>
+    <lastmod>2020-04-30T17:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://y0z.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://y0z.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://y0z.github.io/</loc>
   </url>
   
 </urlset>
