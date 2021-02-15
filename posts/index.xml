@@ -6,11 +6,7 @@
     <description>Recent content in Posts on Yoshihiko Ozaki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 05 Jun 2020 19:00:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://y0z.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 05 Jun 2020 19:00:00 +0900</lastBuildDate><atom:link href="https://y0z.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated crystal structure analysis based on blackbox optimisation</title>
       <link>https://y0z.github.io/posts/bbo-rietveld/</link>
